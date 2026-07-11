@@ -1,0 +1,25 @@
+{
+  "record_id": "092725d5-c019-411c-9d30-0e0f966bad13",
+  "timestamp": "2026-07-08T15:47:36+00:00",
+  "transcript": "I have a mild sore throat in a slide cough sense yesterday",
+  "summary": {
+    "chief_complaint": "I have a mild sore throat in a slide cough sense yesterday",
+    "symptoms": [
+      "cough",
+      "sore_throat"
+    ],
+    "duration": null,
+    "severity": "mild",
+    "red_flags": []
+  },
+  "recommendation": {
+    "urgency": "self_care",
+    "reasons": [
+      "Symptoms detected: cough, sore_throat. No red flags."
+    ],
+    "next_steps": [
+      "Rest, stay hydrated, and monitor symptoms."
+    ],
+    "disclaimer": "This is an automated triage suggestion, not a medical diagnosis. It is not a substitute for evaluation by a licensed clinician. If this is a medical emergency, call your local emergency number immediately."
+  }
+}

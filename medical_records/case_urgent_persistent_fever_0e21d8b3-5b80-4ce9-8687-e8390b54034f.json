@@ -1,0 +1,25 @@
+{
+  "record_id": "0e21d8b3-5b80-4ce9-8687-e8390b54034f",
+  "timestamp": "2026-07-08T15:33:05.298571+00:00",
+  "transcript": "I've had a fever and a bad cough for 2 weeks.",
+  "summary": {
+    "chief_complaint": "I've had a fever and a bad cough for 2 weeks",
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "duration": "2 week",
+    "severity": null,
+    "red_flags": []
+  },
+  "recommendation": {
+    "urgency": "see_doctor_soon",
+    "reasons": [
+      "Symptoms have persisted for 2 week."
+    ],
+    "next_steps": [
+      "Schedule a non-urgent appointment with a physician."
+    ],
+    "disclaimer": "This is an automated triage suggestion, not a medical diagnosis. It is not a substitute for evaluation by a licensed clinician. If this is a medical emergency, call your local emergency number immediately."
+  }
+}

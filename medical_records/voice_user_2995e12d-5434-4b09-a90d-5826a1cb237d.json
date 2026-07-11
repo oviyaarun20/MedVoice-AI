@@ -1,0 +1,25 @@
+{
+  "record_id": "2995e12d-5434-4b09-a90d-5826a1cb237d",
+  "timestamp": "2026-07-08T15:50:04.486129+00:00",
+  "transcript": "I have been feeling tired and a little dizzy for one day",
+  "summary": {
+    "chief_complaint": "I have been feeling tired and a little dizzy for one day",
+    "symptoms": [
+      "dizziness",
+      "fatigue"
+    ],
+    "duration": null,
+    "severity": "mild",
+    "red_flags": []
+  },
+  "recommendation": {
+    "urgency": "self_care",
+    "reasons": [
+      "Symptoms detected: dizziness, fatigue. No red flags."
+    ],
+    "next_steps": [
+      "Rest, stay hydrated, and monitor symptoms."
+    ],
+    "disclaimer": "This is an automated triage suggestion, not a medical diagnosis. It is not a substitute for evaluation by a licensed clinician. If this is a medical emergency, call your local emergency number immediately."
+  }
+}
