@@ -1,3 +1,0 @@
-SpeechRecognition
-PyAudio
-typing_extensions
